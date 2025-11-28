@@ -1,8 +1,8 @@
-def prinnumber():
+def printnumber():
     i=0
     while(i<10):
       i=i+1
       print(i)
 
-prinnumber()
+printnumber()
 
